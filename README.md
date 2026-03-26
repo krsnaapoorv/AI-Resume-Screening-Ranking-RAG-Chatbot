@@ -238,3 +238,4 @@ streamlit run ui/app.py
 ## ⭐ If you like this project
 
 Give it a star ⭐ and feel free to fork!
+
